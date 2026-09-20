@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "xch1-aibox": {
+      "command": "xch1-aibox-mcp"
+    }
+  }
+}
